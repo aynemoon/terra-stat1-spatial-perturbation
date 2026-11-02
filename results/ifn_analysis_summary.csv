@@ -1,0 +1,8 @@
+comparison,n_cells,spearman_rho
+Observed STAT1 expression vs IFN score,1881,0.17757119334273327
+STAT1 embedding shift vs IFN score,100,-0.0529923888518968
+Matched STAT1 shift vs IFN score,60,0.1625702012266857
+Matched TDRD3 shift vs IFN score,60,0.0936980962735085
+Matched shift difference vs IFN score,60,0.08700537511111504
+Total counts vs IFN score: technical check,100,-0.1357421808898718
+STAT1 token rank vs IFN score: technical check,100,0.026387212165532952

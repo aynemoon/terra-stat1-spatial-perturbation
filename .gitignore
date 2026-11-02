@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+terra_cache/
+data/xenium_skin/
+*.pt
+*.pth
+terra_project_outputs*.zip
